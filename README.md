@@ -2,4 +2,4 @@ This is a simple game where the user tries to catch a box that moves around the 
 
 This project is made with the help of html,css and js.The html code is present in index.html,the css code is present in style.css and js code is present in script.js.
 
-hosted link:
+hosted link:https://suk-18.github.io/catchme.github.io/
